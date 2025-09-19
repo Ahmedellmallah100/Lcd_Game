@@ -1,5 +1,10 @@
 # Simple LCD Screen Game — AVR ATmega32
 
+
+A compact embedded system project developed using AVR ATmega microcontroller and Embedded C, designed to monitor environmental parameters with intelligent alerts and controls. Completed during training at [National Telecommunication Institute - المعهد القومي للاتصالات](https://www.linkedin.com/company/national-telecommunication-institute/).
+
+---
+
 A fun and interactive old-school game played on a 16x2 LCD where players block a moving ball by pressing buttons. The game uses custom patterns drawn in the CGRAM of the LCD.
 
 ---
